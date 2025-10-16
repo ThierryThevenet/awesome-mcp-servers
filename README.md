@@ -412,7 +412,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
-- <img src="https://talao.co/image/server/logo.png" height=14"/> [Wallet Connectors](https://wallet-connectors.com/mcp)  
+- <img src="https://talao.co/image/server/logo.png" height="14"/> [Wallet Connectors](https://wallet-connectors.com/mcp)  
   MCP server that bridges AI agents with verifiable data wallets (EUDI / EBSI).   
 
 <br />
